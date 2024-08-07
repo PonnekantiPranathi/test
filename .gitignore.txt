@@ -1,4 +1,4 @@
 
 
-/test/pranathi.txt 
+test/pranathi.txt 
 
